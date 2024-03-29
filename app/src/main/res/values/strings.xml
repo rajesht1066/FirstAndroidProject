@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FirstAndroidProject</string>
+    <string name="sample_name">It\'s Show Time</string>
+    <string name="sample_title">Welcome To My World</string>
+    <string name="btn_1">Enter Now</string>
+    <string name="login_btn">Login</string>
+    <string name="cbox1">Item-1</string>
+    <string name="cbox2">Item-2</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string-array name="planets_Array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+
+    <string name="got">GoT</string>
+    <string name="got_title">GAME OF THRONES</string>
+    <string name="got_sub_title">Based on \'A Song of Ice and Fire\'</string>
+    <string name="question1">Who is your favourite character?</string>
+    <string name="fav_char">Favourite Character</string>
+    <string name="question2">How excited are you for season8?</string>
+    <string name="range_0">Nah! Who cares?</string>
+    <string name="range_1">Can\'t wait</string>
+    <string name="rate">Rate the TV series below</string>
+    <string name="submit_btn">SUBMIT</string>
+    <string name="gotwiki_btn">GOT WIKI</string>
+
+    <string name="title">Blade Runner 2049</string>
+    <string name="content">Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long buried secret that has the potential to plunge what\'s left of society into chaos. K\'s discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
